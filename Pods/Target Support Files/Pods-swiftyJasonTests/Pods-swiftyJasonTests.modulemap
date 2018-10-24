@@ -1,0 +1,6 @@
+framework module Pods_swiftyJasonTests {
+  umbrella header "Pods-swiftyJasonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
